@@ -1,8 +1,7 @@
 # RailsReactUtils
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rails_react_utils`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+<font color="darkred">**Caution! This plugin is still under development.**</font><br>
+This is ths rails plugin gem which includes useful JavaScript classes for React.js with Rails.<br>
+This gem is under development and is incomplete.
 
 ## Installation
 
@@ -22,7 +21,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Utility classes are located at the following directory.
+`app/assets/javascripts/components/rails_react_utils/`
 
 ## Development
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rails_react_utils. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/fukumame/rails_react_utils. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License

@@ -1,5 +1,5 @@
 # RailsReactUtils
-<font color="darkred">**Caution! This plugin is still under development.**</font><br>
+<font color="darkred">**Attention: This plugin is still under development.**</font><br>
 This is ths rails plugin gem which includes useful JavaScript classes for React.js with Rails.<br>
 This gem is under development and is incomplete.
 
@@ -20,9 +20,14 @@ Or install it yourself as:
     $ gem install rails_react_utils
 
 ## Usage
+Add the following lines to your asset pipeline-enabled javascript.<br>
 
-Utility classes are located at the following directory.
-`app/assets/javascripts/components/rails_react_utils/`
+    //= require rails_react_utils
+
+
+Utility classes are located at the following directory.<br>
+
+    app/assets/javascripts/components/rails_react_utils/
 
 ## Development
 
